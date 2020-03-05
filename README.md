@@ -33,7 +33,7 @@ Source code is linted by [ESLint][], enforcing the [Airbnb JavaScript Style Guid
 [airbnb javascript style guide]: https://github.com/airbnb/javascript
 [eslint-config-airbnb]: https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb
 
-### 🐶 Commit and Push Checks
+### 🐶 Git Hooks for Commit and Push
 
 Linting, code formatting, and typechecking are handled automatically using [Husky][] and [lint-staged] every time you make a commit or push to the remote repo.
 
