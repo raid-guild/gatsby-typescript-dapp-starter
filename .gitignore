@@ -7,3 +7,5 @@ node_modules/
 public/
 .idea/workspace.xml
 .idea/dictionaries
+
+.DS_Store
