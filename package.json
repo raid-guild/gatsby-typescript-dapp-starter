@@ -23,7 +23,7 @@
     "@web3-react/ledger-connector": "^6.0.7",
     "@web3-react/walletconnect-connector": "^6.0.7",
     "emotion-theming": "^10.0.27",
-    "gatsby": "^2.19.12",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-chakra-ui": "^0.1.2",
     "gatsby-plugin-emotion": "^4.1.22",
     "gatsby-plugin-manifest": "^2.2.41",
